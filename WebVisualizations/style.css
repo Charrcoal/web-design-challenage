@@ -1,0 +1,32 @@
+body{
+    background: lightgray;
+}
+
+.navbar-brand{
+  padding: inherit;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: darkcyan;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    padding: 10px;
+    margin: 10px;
+    background: white;
+}
+
+.header{
+  padding-top: 20px;
+  padding-left: 20px;
+  color: darkcyan;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image{
+  float: left;
+  width: 60%;
+  height: 60%
+}
